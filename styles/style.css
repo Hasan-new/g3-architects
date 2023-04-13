@@ -1,0 +1,28 @@
+/* google fonts */
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@700&display=swap');
+
+  /* utility */
+  body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+  }
+  main{
+    background-color:  #FF900E;
+  }
+  .container{
+    display: flex;
+    justify-content: space-between;
+  }
+h3{
+    font-size: 45px;
+    color: #131313
+}
+ul {
+    list-style-type: none;
+}
+.nav-bar{
+    display: flex;
+    font-weight: 500px;
+    font-size: 18px;
+    /* text-decoration: none; */
+}
